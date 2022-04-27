@@ -15,4 +15,4 @@ plt.xlabel("Angle [deg]")
 plt.title(f"AoA: {theta[np.argmax(P_PDDA)]}")
 ```
 
-![img_pdda](img_pdda.img)
+![img_pdda](img_pdda.png)
